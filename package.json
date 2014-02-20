@@ -1,0 +1,14 @@
+{
+  "name": "ianstormtaylor-reduce",
+  "description": "Reduce an array or object.",
+  "version": "0.0.1",
+  "keywords": [
+    "reduce",
+    "array",
+    "object"
+  ],
+  "dependencies": {
+    "component-each": "git://github.com/npmcomponent/component-each.git"
+  },
+  "license": "MIT"
+}
